@@ -1,0 +1,26 @@
+{
+    "DatabaseConfig": {
+        "Server": "MATRIX",
+        "Database": "RAW_PROCESS",
+        "IntegratedSecurity": true,
+        "Username": "",
+        "Password": ""
+    },
+    "ProcessConfig": {
+        "CsvFolderPath": "D:\\CSVImporter2DB\\Import",
+        "TempTableName": "IMP_TEMP_TABLE",
+        "DestinationTableName": "DTR_RAW_IMP",
+        "ErrorTableName": "DTR_ERROR_LOG",
+        "SuccessLogTableName": "DTR_SUCCESS_LOG",
+        "BatchSize": 100000,
+        "AutoExitTimeoutSeconds": 10,
+        "PreserveLeadingZeros": true
+    },
+    "LoggingConfig": {
+        "LogFolderPath": "D:\\CSVImporter2DB\\Logs",
+        "EnableFileLogging": true,
+        "ErrorLogFolder": "Errors",
+        "SuccessLogFolder": "Success",
+        "ConsoleLogFolder": "Console"
+    }
+}

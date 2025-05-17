@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hVOe/H6IP3I=",
+  "dgSpecHash": "h0h+2agKrIc=",
   "success": true,
-  "projectFilePath": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj",
+  "projectFilePath": "D:\\CSVImporter2DB\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mdyou\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\mdyou\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

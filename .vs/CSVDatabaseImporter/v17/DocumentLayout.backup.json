@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1566AD87-3C53-4891-966F-9B636C6D0BB8}|CSVDatabaseImporter.csproj|d:\\csvimporter2db\\csvimporter\\csvdatabaseimporter\\services\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1566AD87-3C53-4891-966F-9B636C6D0BB8}|CSVDatabaseImporter.csproj|solutionrelative:services\\databaseoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1566AD87-3C53-4891-966F-9B636C6D0BB8}|CSVDatabaseImporter.csproj|d:\\csvimporter2db\\csvimporter\\csvdatabaseimporter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1566AD87-3C53-4891-966F-9B636C6D0BB8}|CSVDatabaseImporter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Logger.cs",
               "DocumentMoniker": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\Services\\Logger.cs",
               "RelativeDocumentMoniker": "Services\\Logger.cs",
@@ -46,24 +42,12 @@
               "RelativeToolTip": "Services\\Logger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T20:02:28.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatabaseOperations.cs",
-              "DocumentMoniker": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\Services\\DatabaseOperations.cs",
-              "RelativeDocumentMoniker": "Services\\DatabaseOperations.cs",
-              "ToolTip": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\Services\\DatabaseOperations.cs",
-              "RelativeToolTip": "Services\\DatabaseOperations.cs",
-              "ViewState": "AgIAAJ8BAAAAAAAAAADwv6gBAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T21:20:28.041Z",
+              "WhenOpened": "2025-05-07T20:02:28.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BatchResult.cs",
               "DocumentMoniker": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\Models\\BatchResult.cs",
               "RelativeDocumentMoniker": "Models\\BatchResult.cs",
@@ -75,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "config.json",
               "DocumentMoniker": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\Configuration\\config.json",
               "RelativeDocumentMoniker": "Configuration\\config.json",
@@ -87,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CsvProcessor.cs",
               "DocumentMoniker": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\Services\\CsvProcessor.cs",
               "RelativeDocumentMoniker": "Services\\CsvProcessor.cs",
@@ -99,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

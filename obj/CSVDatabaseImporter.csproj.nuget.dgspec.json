@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj": {}
+    "D:\\CSVImporter2DB\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj": {}
   },
   "projects": {
-    "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj": {
+    "D:\\CSVImporter2DB\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj",
+        "projectUniqueName": "D:\\CSVImporter2DB\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj",
         "projectName": "CSVDatabaseImporter",
-        "projectPath": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj",
+        "projectPath": "D:\\CSVImporter2DB\\CSVDatabaseImporter\\CSVDatabaseImporter.csproj",
         "packagesPath": "C:\\Users\\mdyou\\.nuget\\packages\\",
-        "outputPath": "D:\\CSVImporter2DB\\CSVImporter\\CSVDatabaseImporter\\obj\\",
+        "outputPath": "D:\\CSVImporter2DB\\CSVDatabaseImporter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
